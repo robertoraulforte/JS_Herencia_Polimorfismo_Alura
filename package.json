@@ -1,0 +1,12 @@
+{
+  "name": "cuentasbancopopular",
+  "version": "1.0.0",
+  "description": "Herencia polimorfismo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roberto Forte",
+  "license": "ISC",
+  "type": "module"
+}
